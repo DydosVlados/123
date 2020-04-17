@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <fstream>
  using namespace std;
 
@@ -21,10 +21,8 @@
    getchar();
  getchar();
    return 0;
+
 }
-
-
-
 
 
  #include <iostream>
@@ -198,3 +196,4 @@ file.close();
 
 return 0;
 }
+1234
